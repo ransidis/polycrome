@@ -1,4 +1,3 @@
-import logo from './logo.png';
 import './App.css';
 import './dashboard.css';
 import './Dashboard.js'
