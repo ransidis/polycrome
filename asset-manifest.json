@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/polycrome/static/css/main.c433fbe5.css",
+    "main.js": "/polycrome/static/js/main.2416704f.js",
+    "static/js/453.d7b8c3b5.chunk.js": "/polycrome/static/js/453.d7b8c3b5.chunk.js",
+    "index.html": "/polycrome/index.html",
+    "main.c433fbe5.css.map": "/polycrome/static/css/main.c433fbe5.css.map",
+    "main.2416704f.js.map": "/polycrome/static/js/main.2416704f.js.map",
+    "453.d7b8c3b5.chunk.js.map": "/polycrome/static/js/453.d7b8c3b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c433fbe5.css",
+    "static/js/main.2416704f.js"
+  ]
+}
