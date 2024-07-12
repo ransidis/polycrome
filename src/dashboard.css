@@ -1,0 +1,14 @@
+.centered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .electrician_details{
+    line-height: 1;
+    border: 1px solid red;
+  }
+
+  .dashboard-section{
+    padding: 20px;
+  }
